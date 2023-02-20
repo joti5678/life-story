@@ -1,5 +1,5 @@
 This is test file
 
-this is added line 2
-
 this is added after pushing 1st time
+
+this is added after pulling from local drive 2nd time
